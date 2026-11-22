@@ -1,0 +1,28 @@
+[
+  {
+    "name": "full_nse_standard",
+    "status": "completed",
+    "completed_cycles": 5,
+    "seconds": 51.606611083,
+    "relative_final_state_difference": 9.970403201956646e-19
+  },
+  {
+    "name": "full_burgers_viscous_mixed",
+    "status": "completed",
+    "completed_cycles": 5,
+    "seconds": 17.927552833,
+    "relative_final_state_difference": 5.447555201620896e-15
+  },
+  {
+    "name": "bfn_normal",
+    "status": "completed",
+    "seconds": 74.693983542,
+    "relative_final_state_difference": 3.33572059783329e-15
+  },
+  {
+    "name": "bfn_VOIGT",
+    "status": "completed",
+    "seconds": 76.760664458,
+    "relative_final_state_difference": 1.112509803632096e-14
+  }
+]

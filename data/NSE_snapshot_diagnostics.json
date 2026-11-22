@@ -1,0 +1,488 @@
+{
+  "runs": [
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_09_15_BFN_final_50_dBFN",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_09_15_BFN_final_50_dBFN",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005474654695900719,
+        "L2_observed": 2.6927161954565936e-06,
+        "L2_unobserved": 0.0005474588474698064,
+        "H1_seminorm": 0.030701471910399084,
+        "H1_observed": 6.045566735195345e-05,
+        "H1_unobserved": 0.03070141238733666
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_17_33_BFN_final_50_BFN",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_17_33_BFN_final_50_BFN",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005468391435260783,
+        "L2_observed": 4.607582171440623e-07,
+        "L2_unobserved": 0.0005468389494121649,
+        "H1_seminorm": 0.0306716865812932,
+        "H1_observed": 2.2654943144226922e-05,
+        "H1_unobserved": 0.03067167821451302
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_22_26_BFN_final_all_BFN",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_22_26_BFN_final_all_BFN",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 3.242672247671652e-08,
+        "L2_observed": 3.242672247671652e-08,
+        "L2_unobserved": 0,
+        "H1_seminorm": 5.670697983891524e-07,
+        "H1_observed": 5.670697983891524e-07,
+        "H1_unobserved": 0
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_27_33_BFN_final_all_dBFN",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_27_33_BFN_final_all_dBFN",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 2.6524842220326236e-06,
+        "L2_observed": 2.6524842220326236e-06,
+        "L2_unobserved": 0,
+        "H1_seminorm": 5.737641747283097e-05,
+        "H1_observed": 5.737641747283097e-05,
+        "H1_unobserved": 0
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_33_17_BFN_final_all_vBFN",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_33_17_BFN_final_all_vBFN",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 3.306493029941745e-08,
+        "L2_observed": 3.306493029941744e-08,
+        "L2_unobserved": 0,
+        "H1_seminorm": 6.086178065475909e-07,
+        "H1_observed": 6.086178065475909e-07,
+        "H1_unobserved": 0
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_39_47_BFN_final_50_vBFN_1m3",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_39_47_BFN_final_50_vBFN_1m3",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005466963627627285,
+        "L2_observed": 4.589392121993426e-07,
+        "L2_unobserved": 0.0005466961701281585,
+        "H1_seminorm": 0.030664823513643767,
+        "H1_observed": 2.2563800653397267e-05,
+        "H1_unobserved": 0.030664815212190978
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_44_49_BFN_final_50_vBFN_1m5",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_44_49_BFN_final_50_vBFN_1m5",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005468391292085314,
+        "L2_observed": 4.6075802660603073e-07,
+        "L2_unobserved": 0.0005468389350947733,
+        "H1_seminorm": 0.03067168589307925,
+        "H1_observed": 2.2654933877092336e-05,
+        "H1_unobserved": 0.03067167752630573
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_49_38_BFN_final_50_vBFN_1m10",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_49_38_BFN_final_50_vBFN_1m10",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005468391435260783,
+        "L2_observed": 4.6075821714406145e-07,
+        "L2_unobserved": 0.0005468389494121649,
+        "H1_seminorm": 0.0306716865812932,
+        "H1_observed": 2.2654943144226888e-05,
+        "H1_unobserved": 0.03067167821451302
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_14_59_42_BFN_final_50_vBFN_1m7",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_14_59_42_BFN_final_50_vBFN_1m7",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005468391435246465,
+        "L2_observed": 4.6075821712502285e-07,
+        "L2_unobserved": 0.0005468389494107331,
+        "H1_seminorm": 0.03067168658122438,
+        "H1_observed": 2.2654943143300143e-05,
+        "H1_unobserved": 0.0306716782144442
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_15_04_52_BFN_final_50_vBFN_filtered",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_15_04_52_BFN_final_50_vBFN_filtered",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005466961701176753,
+        "L2_observed": 4.600390333323429e-07,
+        "L2_unobserved": 0.0005466959765586554,
+        "H1_seminorm": 0.03066481468435681,
+        "H1_observed": 2.261912584666228e-05,
+        "H1_unobserved": 0.030664806342142307
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_15_21_26_BFN_final_50_dBFN_filtered",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_15_21_26_BFN_final_50_dBFN_filtered",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005474805414987433,
+        "L2_observed": 4.641793325216474e-07,
+        "L2_unobserved": 0.0005474803447223512,
+        "H1_seminorm": 0.03070244138063547,
+        "H1_observed": 2.282534520355305e-05,
+        "H1_unobserved": 0.030702432896025908
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_15_26_26_BFN_final_50_BFN_filtered",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_15_26_26_BFN_final_50_BFN_filtered",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005468391435260783,
+        "L2_observed": 4.607582171440623e-07,
+        "L2_unobserved": 0.0005468389494121649,
+        "H1_seminorm": 0.0306716865812932,
+        "H1_observed": 2.2654943144226922e-05,
+        "H1_unobserved": 0.03067167821451302
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_16_06_44_BFN_final_50_vBFN_1m9",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_16_06_44_BFN_final_50_vBFN_1m9",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0005468391435260782,
+        "L2_observed": 4.6075821714406156e-07,
+        "L2_unobserved": 0.0005468389494121647,
+        "H1_seminorm": 0.030671686581293194,
+        "H1_observed": 2.2654943144226888e-05,
+        "H1_unobserved": 0.030671678214513012
+      }
+    },
+    {
+      "metadata": {
+        "run_name": "2025_11_24_17_28_05_BFN_final_50_vBFN_1m1",
+        "state_representation": "streamfunction FFT",
+        "Nx": 1024,
+        "Ny": 1024,
+        "Lx": 6.283185307179586,
+        "Ly": 6.283185307179586,
+        "nu": 0.0001,
+        "saved_signed_dt": -0.001,
+        "saved_time_current": 0.001,
+        "saved_step_index": 501,
+        "saved_num_timesteps": 501,
+        "saved_mu": -1000,
+        "alpha_provenance": "Coefficient not serialized in this snapshot. Run-label strings do not establish its value.",
+        "endpoint_caveat": "Snapshots may represent intermediate time levels rather than completed backward endpoints.",
+        "reference_equals_initial": 1,
+        "source_run": "2025_11_24_17_28_05_BFN_final_50_vBFN_1m1",
+        "streamfunction_convention": "velocity=(-psi_y,psi_x); vorticity=Delta psi; f_hat=curl(f)"
+      },
+      "errors": {
+        "L2": 0.0004988781424862386,
+        "L2_observed": 1.9832184243323745e-05,
+        "L2_unobserved": 0.0004984837866156317,
+        "H1_seminorm": 0.028352387704938184,
+        "H1_observed": 0.0003164837856330867,
+        "H1_unobserved": 0.02835062127334357
+      }
+    }
+  ],
+  "alpha_labeled_runs": [
+    {
+      "alpha_label": 0.1,
+      "errors": {
+        "L2": 0.0004988781424862386,
+        "L2_observed": 1.9832184243323745e-05,
+        "L2_unobserved": 0.0004984837866156317,
+        "H1_seminorm": 0.028352387704938184,
+        "H1_observed": 0.0003164837856330867,
+        "H1_unobserved": 0.02835062127334357
+      },
+      "run": "2025_11_24_17_28_05_BFN_final_50_vBFN_1m1"
+    },
+    {
+      "alpha_label": 0.001,
+      "errors": {
+        "L2": 0.0005466963627627285,
+        "L2_observed": 4.589392121993426e-07,
+        "L2_unobserved": 0.0005466961701281585,
+        "H1_seminorm": 0.030664823513643767,
+        "H1_observed": 2.2563800653397267e-05,
+        "H1_unobserved": 0.030664815212190978
+      },
+      "run": "2025_11_24_14_39_47_BFN_final_50_vBFN_1m3"
+    },
+    {
+      "alpha_label": 1e-05,
+      "errors": {
+        "L2": 0.0005468391292085314,
+        "L2_observed": 4.6075802660603073e-07,
+        "L2_unobserved": 0.0005468389350947733,
+        "H1_seminorm": 0.03067168589307925,
+        "H1_observed": 2.2654933877092336e-05,
+        "H1_unobserved": 0.03067167752630573
+      },
+      "run": "2025_11_24_14_44_49_BFN_final_50_vBFN_1m5"
+    },
+    {
+      "alpha_label": 1e-07,
+      "errors": {
+        "L2": 0.0005468391435246465,
+        "L2_observed": 4.6075821712502285e-07,
+        "L2_unobserved": 0.0005468389494107331,
+        "H1_seminorm": 0.03067168658122438,
+        "H1_observed": 2.2654943143300143e-05,
+        "H1_unobserved": 0.0306716782144442
+      },
+      "run": "2025_11_24_14_59_42_BFN_final_50_vBFN_1m7"
+    },
+    {
+      "alpha_label": 1e-09,
+      "errors": {
+        "L2": 0.0005468391435260782,
+        "L2_observed": 4.6075821714406156e-07,
+        "L2_unobserved": 0.0005468389494121647,
+        "H1_seminorm": 0.030671686581293194,
+        "H1_observed": 2.2654943144226888e-05,
+        "H1_unobserved": 0.030671678214513012
+      },
+      "run": "2025_11_24_16_06_44_BFN_final_50_vBFN_1m9"
+    },
+    {
+      "alpha_label": 1e-10,
+      "errors": {
+        "L2": 0.0005468391435260783,
+        "L2_observed": 4.6075821714406145e-07,
+        "L2_unobserved": 0.0005468389494121649,
+        "H1_seminorm": 0.0306716865812932,
+        "H1_observed": 2.2654943144226888e-05,
+        "H1_unobserved": 0.03067167821451302
+      },
+      "run": "2025_11_24_14_49_38_BFN_final_50_vBFN_1m10"
+    }
+  ],
+  "H1_history_scale": "sqrt(Lx*Ly)/sqrt(Nx*Ny); endpoint agreement independently checked",
+  "window": 0.05,
+  "cycles": 5,
+  "observation_mask": "0<|k|<50"
+}

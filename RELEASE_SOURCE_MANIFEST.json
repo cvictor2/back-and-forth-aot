@@ -1,0 +1,178 @@
+[
+  {
+    "file": "+paperbfn/check_figure_coverage.m",
+    "sha256": "2e22d597784ac3b7e0bf15156468ffbd8a1cf1dbc04a03bfd3ee049da84ff465"
+  },
+  {
+    "file": "+paperbfn/compare.m",
+    "sha256": "a79bb87327516317525cd1928e9731496725b8755fc804fd8c5816d4c61cecb9"
+  },
+  {
+    "file": "+paperbfn/config.m",
+    "sha256": "b213df00403dfbfbaf2a500888896cd8f4fceb604a34a3c9254eef034693d7b2"
+  },
+  {
+    "file": "+paperbfn/entry.m",
+    "sha256": "190208426c24763d70b4c637b8ffb4e8b09c7d4d1f62218dfe665e7094eaecf3"
+  },
+  {
+    "file": "+paperbfn/errors.m",
+    "sha256": "beb933209954f955ba1db8647536adcd73610e07f312feec18513b5e1f93ed28"
+  },
+  {
+    "file": "+paperbfn/input_manifest.m",
+    "sha256": "8b761985d2a1ebb3073a35fc2508570e4e2efe150e1315931746b817319467fa"
+  },
+  {
+    "file": "+paperbfn/kdv_run.m",
+    "sha256": "9bcf37c3c6e9c460da04051a5db5fa600377895207d0b35c978077636867390c"
+  },
+  {
+    "file": "+paperbfn/lorenz_leg.m",
+    "sha256": "e6e310316cb246368f416771b574e40240905c1deb1f358adfe9e8d96c2b4cdd"
+  },
+  {
+    "file": "+paperbfn/model.m",
+    "sha256": "b8fae6524038b505e7b80cf3fc0baee1788d2f667de918067d7384a791439a21"
+  },
+  {
+    "file": "+paperbfn/nonlinear.m",
+    "sha256": "36be001d865f7988aa4be9a5c54f9a8fa37b04e314e48d8f2d19d85dd02cba73"
+  },
+  {
+    "file": "+paperbfn/observed_mask.m",
+    "sha256": "1c225fe2676d291eb3394d2c58119002088b7e9d2ba048b95dd28022f7cceab0"
+  },
+  {
+    "file": "+paperbfn/plot_nse_paper.m",
+    "sha256": "a9d3fee16e06a339b3991568b6cb2b9a956968f0b9e856fbc86c74a00a3c47e7"
+  },
+  {
+    "file": "+paperbfn/plot_result.m",
+    "sha256": "7e324163232641b9cc8ec8e7ca07f5418f4e9f973057557c62d32dc270717bb2"
+  },
+  {
+    "file": "+paperbfn/reference.m",
+    "sha256": "126435c007974a1acab413d630175944235f06408bb704ccc44f39545702cf4d"
+  },
+  {
+    "file": "+paperbfn/replot_archive.m",
+    "sha256": "211d52104634805f105489a2f66738f15b575fc65706b18bd2be2bcf8b16b5dc"
+  },
+  {
+    "file": "+paperbfn/run.m",
+    "sha256": "335760523d23a85dd722bb023d8f3929b5fbef804fb963a39e5be0bb1dc6a520"
+  },
+  {
+    "file": "+paperbfn/save_figure.m",
+    "sha256": "333fe33561cfd375fd12f4dff6c5e2cb597f4521234dbe4ce0001172d6c1b7e9"
+  },
+  {
+    "file": "+paperbfn/source_manifest.m",
+    "sha256": "b2a55ba4341e57cb238cca391c1777c50cb5520fe86d6e7b5ad318b2685295c0"
+  },
+  {
+    "file": "+paperbfn/step.m",
+    "sha256": "317d40602ff7d3fb536c972efc64b5b137a64648d55a624105b7e44bcdaa53cd"
+  },
+  {
+    "file": "+paperbfn/suite_1d.m",
+    "sha256": "cb6bef61c0f1fc8c5a8edb5ccc42d52441d711a915b2f5db401333fb6019a1e9"
+  },
+  {
+    "file": "+paperbfn/suite_lorenz.m",
+    "sha256": "47e7ade34a63abed1ea0924e7aa2f47f4232ed83fc4ed6cbd25fdf9b2324d81a"
+  },
+  {
+    "file": "+paperbfn/suite_nse.m",
+    "sha256": "b18cbd0b50d58e29534fa247828c99a71b578f5060dd0e2300b13d1894910348"
+  },
+  {
+    "file": "+paperbfn/validate.m",
+    "sha256": "75ac4572bfbdb5b3087cc8149afe9e690438b2454a0a1f889ae622493998a95c"
+  },
+  {
+    "file": "LICENSE",
+    "sha256": "5fed8feff282a5ac153e62b80dbf5f2484e80bc499456098f88cb6388afe5736"
+  },
+  {
+    "file": "julia/Manifest.toml",
+    "sha256": "6b4ba6b663e2396e5f6153c835c80601041354f93879a84e400630ab1b006244"
+  },
+  {
+    "file": "julia/Project.toml",
+    "sha256": "fcc7bac7fd6feaae07e37c1c9342b3f034bde927e09ab0c1f22325ef68e7ac38"
+  },
+  {
+    "file": "julia/run_1d.jl",
+    "sha256": "d692d2f3664d9fc14ad97f6d90d648a64b05d0c2d1e57e2a216dff75a4fcb47c"
+  },
+  {
+    "file": "julia/run_lorenz.jl",
+    "sha256": "f48c9f55b99944aa0e506eff0cc41b837a39de752c3e1ae99bdbfdba03c014e7"
+  },
+  {
+    "file": "julia/run_nse.jl",
+    "sha256": "1c7155a82a481db6e3cddf479e3f96591a191a8394b2a8867ed2fd932619620a"
+  },
+  {
+    "file": "julia/src/BFNPaper.jl",
+    "sha256": "5a7c1354078ea1c79abe8ff055e0ec1976b74b77996a23bcf2a188113159c394"
+  },
+  {
+    "file": "julia/src/config.jl",
+    "sha256": "7dbd68568ba98cd92a545d47ad7734599d8f29c6557c60699d82e486b51d5649"
+  },
+  {
+    "file": "julia/src/io.jl",
+    "sha256": "67d9df9a7902e90db6a3eddb6b8c3a01a0c58de491214307c995facfd7ad3360"
+  },
+  {
+    "file": "julia/src/models.jl",
+    "sha256": "a02494dbf51d56eea92b1c14874f7128a26714d6200341a42710c111713fe7b1"
+  },
+  {
+    "file": "julia/src/plotting.jl",
+    "sha256": "3ec67ee6cf4b3b270906ab148416715836a206a86419c4e5d3681f02171a9f51"
+  },
+  {
+    "file": "julia/src/solver.jl",
+    "sha256": "10b055f1f2e21222dc259e3bb041fc893fdb413ecb3915fa106939a21a58b6ff"
+  },
+  {
+    "file": "julia/src/suites.jl",
+    "sha256": "f303d5ac716d903f00c9ee425818eb53be5f52e169afac57d551fbfc82cc20c8"
+  },
+  {
+    "file": "julia/test/generate_matlab_fixtures.m",
+    "sha256": "c8200e73c02e126cd300e0c6249678adb7d5c0a8600cfae36ecc49c6c5d08385"
+  },
+  {
+    "file": "julia/test/plot_checks.jl",
+    "sha256": "f7bf6a915e670de170ebff87440e88ffd2fe0440514766eb4e3bb731456b3e1b"
+  },
+  {
+    "file": "julia/test/runtests.jl",
+    "sha256": "60f218f3ebf5379a9d32a5991aef2457b8eddeba007d4315934d668aa97011b2"
+  },
+  {
+    "file": "run_1d.m",
+    "sha256": "59e4658c11e646304c1a7515e034615153cf926fef635a8349b5ba773acff689"
+  },
+  {
+    "file": "run_lorenz.m",
+    "sha256": "5392a5a165ddec54af4884d65a04003ccd1f62bccb4d7a639ccd8b8704916f80"
+  },
+  {
+    "file": "run_nse.m",
+    "sha256": "5df2f5d662240fa7342f9729a922eca5eb8b95bfab665f208b037fc2072b07ab"
+  },
+  {
+    "file": "tests/verify_numerics.m",
+    "sha256": "e1e80a8f9b24cbcdcf06afbaba1b8668faa45fcaea7eda1675df4decae6d9e2f"
+  },
+  {
+    "file": "tests/verify_resume.m",
+    "sha256": "942234356986ab08270c27b7cde4941c3f8bbb8770fcb40e155b13ccd8f175b1"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "manuscript_sha256": "165fbd0c15826f1db3720e149bd9ed113dce55bbe04c2261b4ede75ceabe5da6",
+  "numbered_figures": 25,
+  "current_assets": 52,
+  "counts_by_group": {
+    "lorenz": 6,
+    "one_d": 43,
+    "nse": 3
+  },
+  "missing_current_assets": [],
+  "note": "Reference plots are supplied in FIG, PDF and PNG formats. Full-observation NSE endpoint comparisons are tabulated in Table 4."
+}

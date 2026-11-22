@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Lorenz_BFN.m",
+    "sha256": "405d1dcccb72e083e17334531b9501674266d0ad9e85aa43334a656a42261fd4"
+  },
+  {
+    "source": "Heat_1D.m",
+    "sha256": "0d6eda5ea01ae9ff5f3a5c6f84d7cbd96be7f1115ae7776442d09ac70b4bdfbb"
+  },
+  {
+    "source": "BFN_runner.m",
+    "sha256": "41d0fc537a7bea132a187ef01a294a474d11c57bdf3f215dcff85bdc99584415"
+  },
+  {
+    "source": "KdV.m",
+    "sha256": "5aa6f5ee5eeb60a2c28454e514a2458f06695cfcc10c107af210ee3267236b00"
+  },
+  {
+    "source": "Parameters.m",
+    "sha256": "4d2ba008ce2f7dbda7a3cf68fb5b799ef1a240b7d6159773419af966db9da88a"
+  },
+  {
+    "source": "compute_rhs_hat.m",
+    "sha256": "c82ef6a36d57dce64175f95f8372a245dee90b31ba01a5221dc5130764bc0832"
+  },
+  {
+    "source": "OlsonTitiForcing.m",
+    "sha256": "86c2d0bf61ef0c1eaab8a6d561951513f11c79b77d4ebf368e5da2ea3f13ba40"
+  },
+  {
+    "source": "kdv_coefficient_test.m",
+    "sha256": "7e991195440508a8ac710961c25e2c91e35224d394468b231f9491a263bf7490"
+  },
+  {
+    "source": "main_revised.tex",
+    "sha256": "edab50169b152c3c1ee351afb9b2f046c575046dc2ec38e8dd219d5199644eb6"
+  }
+]
